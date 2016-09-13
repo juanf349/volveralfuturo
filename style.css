@@ -1,0 +1,57 @@
+body
+{
+	/*background-image: url(Wood_Background.jpg);
+  	background-repeat:repeat;*/
+	background: #0C0608;
+	background-size: 100% 100%;
+	/*border: red solid 3px;*/
+	color: white;
+	font-family: Signika Negative, sans-serif;
+	font-weight: 400;	
+	font-size: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	/*width: 600px*/
+}
+
+.imagen
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img
+{
+	/*border: red solid 3px;*/
+	box-shadow: 10px 10px 15px #000;
+	border-radius: 15px;
+}
+
+p
+{
+	/*border: red solid 5px;*/
+}
+
+.advertencia
+{
+	background: #C63333;
+	border-radius: 15px;
+	box-shadow: 10px 10px 15px #000;
+	font-size: 20px;	
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 450px;
+}
+
+
+.contacto
+{
+	background: white;
+	box-shadow: 10px 10px 15px #000;	
+	color: #0C0608;
+	font-size: 15px;
+	padding: 5px;
+	width: 450px;
+}
